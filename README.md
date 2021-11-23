@@ -1,4 +1,6 @@
 # coding-gods-and-manifestos
+   **this is to be read in RAW only >:/**
+   
    A computer, the internet, phones, social media  
 They help connect the world, teach people things, discover new things, get inspired, create, innovate.
 All of this could be wonderful this is a tool to help us go about our lives.
