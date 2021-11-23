@@ -1,5 +1,5 @@
 # coding-gods-and-manifestos
-   A computer, the internet, phones, social media 
+   A computer, the internet, phones, social media  
 They help connect the world, teach people things, discover new things, get inspired, create, innovate.
 All of this could be wonderful this is a tool to help us go about our lives.
 But we are dependent on it, we cannot go a day without technology.
