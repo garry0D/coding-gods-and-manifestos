@@ -12,16 +12,16 @@ I go to bed at 1:30 every night being on my phone or my computer
 		Derailing my sleep pattern and quality
 Stuck on the never-ending scrawling.
 Mindless and numbing.
-					        	             	z     z
-				  		z             z
-		                	z		z
-||===================||		       z	z
-||			             ||
-||			             ||     z
-||			             ||	 z       	z
-||			             ||	   z
+				  z   z
+		z            z
+		                z	z
+||===================||  z	    z
+||		     ||
+||		     ||      z
+||		     ||	 z        z
+||	             ||	   z
 ||========E3=========||
-       _|   |_
+        _|   |_
 
 Instead of giving my body rest from my day and the overuse of the internet and social media, I scroll. And I cannot tell you why, nothing is brought from that endeavour.
 **Because of it I am creating a Thoughts of the field of computing? A manifesto? A proposal?**
