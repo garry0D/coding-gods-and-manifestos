@@ -14,7 +14,7 @@ I go to bed at 1:30 every night being on my phone or my computer<br>
 		Derailing my sleep pattern and quality<br>
 Stuck on the never-ending scrawling.<br>
 Mindless and numbing.<br>
-				 z<  z<br>
+				 z  z<br>
 		z        z<br>
 		                z	z<br>
 ||===================||  z	    z<br>
