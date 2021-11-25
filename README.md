@@ -1,7 +1,7 @@
 # coding-gods-and-manifestos
    **this is to be read in RAW only >:/**
    
-  <h2>Heading level 2</h2> A computer, the internet, phones, social media  
+  <h2> A computer, the internet, phones, social media 2</h2> 
 They help connect the world, teach people things, discover new things, get inspired, create, innovate.<br>
 All of this could be wonderful this is a tool to help us go about our lives.<br>
 But we are dependent on it, we cannot go a day without technology.<br>
