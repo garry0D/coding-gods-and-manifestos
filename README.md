@@ -1,12 +1,12 @@
 # coding-gods-and-manifestos
    **this is to be read in RAW only >:/**
    
-   A computer, the internet, phones, social media  
-They help connect the world, teach people things, discover new things, get inspired, create, innovate.
-All of this could be wonderful this is a tool to help us go about our lives.
-But we are dependent on it, we cannot go a day without technology.
-What about our phones? Not many people can say they don’t go on their phones even less people saying they can go a day without checking Instagram. 
-The few that can are lucky.
+  <h2>Heading level 2</h2> A computer, the internet, phones, social media  
+They help connect the world, teach people things, discover new things, get inspired, create, innovate.<br>
+All of this could be wonderful this is a tool to help us go about our lives.<br>
+But we are dependent on it, we cannot go a day without technology.<br>
+What about our phones? Not many people can say they don’t go on their phones even less people saying they can go a day without checking Instagram. <br>
+The few that can are lucky.<br>
 I,
 Unfortunately, 
 Am not one of these people.
