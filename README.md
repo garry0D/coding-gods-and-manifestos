@@ -14,15 +14,15 @@ I go to bed at 1:30 every night being on my phone or my computer<br>
 		Derailing my sleep pattern and quality<br>
 Stuck on the never-ending scrawling.<br>
 Mindless and numbing.<br>
-				<p>  z   z<br>
-	<p>	z            z<br>
-		       <p>         z	z<br>
+				 z<  z<br>
+		z        z<br>
+		                z	z<br>
 ||===================||  z	    z<br>
-||		     ||<br>
+||		     ||   z<br>
 ||		     ||      z<br>
-||		     ||	 z        z<br>
+||		     ||	 z       z<br>
 ||	             ||	   z<br>
-||========E3=========||<br>
+||========E3=========||z<br>
         _|   |_<br>
 
 Instead of giving my body rest from my day and the overuse of the internet and social media, I scroll. And I cannot tell you why, nothing is brought from that endeavour.<br>
