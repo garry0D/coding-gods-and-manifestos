@@ -1,7 +1,7 @@
 # coding-gods-and-manifestos
    **this is to be read in RAW only >:/**
    
-  <h2> A computer, the internet, phones, social media 2</h2> 
+  <h6> A computer, the internet, phones, social media </h6> 
 They help connect the world, teach people things, discover new things, get inspired, create, innovate.<br>
 All of this could be wonderful this is a tool to help us go about our lives.<br>
 But we are dependent on it, we cannot go a day without technology.<br>
@@ -41,7 +41,7 @@ Maybe just a simple list on everything negative that happens from this electroni
 - Seen as strange to not be on your phone in the tube
 
  
-“Industrial societies and its future” was written by Ted Kaczynski in 1995 and firstly published in the Washington post. Ted Kaczynski is also known as the UNABOMBER an individual who mailed bombs to institutions that went against his view on society and how its technological and economical base should be eradicated. His manifesto critiques society and explains his view on it.
+“Industrial societies and its future” was written by Ted Kaczynski in 1995 and firstly published in the Washington post. Ted Kaczynski is also known as the UNABOMBER, a serial bomber who sent  mail bombs (between 1978-1995). The bombings were determined by his later released manifesto (1995) he states th need for technological and economical base within a society should be eradicated. His manifesto critiques society and explains his view on it.
 *“This system, he wrote, destroys nature and suppresses individual freedom. In short, humans adapt to machines rather than vice versa, resulting in a society hostile to human potential.”*
 
 208. *Organization-dependent technology DOES regress when the social organization on which it depends breaks down. Example: When the Roman Empire fell apart the Romans’ small-scale technology survived because any clever village craftsman could build, for instance, a water wheel, any skilled smith could make steel by Roman methods, and so forth. But the Romans’ organization-dependent technology DID regress. Their aqueducts fell into disrepair and were never rebuilt. Their techniques of road construction were lost. The Roman system of urban sanitation was forgotten, so that not until rather recent times did the sanitation of European cities equal that of Ancient Rome.*
@@ -53,3 +53,6 @@ All of this is true, and I want to stop using this medium with such dependence, 
 And yet it is so difficult to do especially being an artist, to share my work to the world and gaining a following and connections and inspiration. All of this requires being on social media (my phone)
 
 In 2017, an article in Rolling Stone stated that Kaczynski was an early adopter of the idea that:  "We give up a piece of ourselves whenever we adjust to conform to society's standards. That, and we're too plugged in. We're letting technology take over our lives, willingly."
+
+
+as a reference and a polar opposit i want to exhibit Vera Molnar, french/Hungrian artist who used computers at the center of her practice. She gave full conrol to computers to create symetrical shaped.
