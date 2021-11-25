@@ -11,19 +11,24 @@ I,<br>
 Unfortunately, <br>
 Am not one of these people.<br>
 I go to bed at 1:30 every night being on my phone or my computer<br>
-		Derailing my sleep pattern and it's quality<br>
+Derailing my sleep pattern and it's quality<br>
 Stuck never-endingly scrawling.<br>
 Mindless and numbing.<br>
-				 z  z<br>
-		z        z<br>
-		                z	z<br>
-||===================||  z	    z<br>
-||		     ||   z<br>
-||		     ||      z<br>
-||		     ||	 z       z<br>
-||	             ||	   z<br>
-||========E3=========||z<br>
-        _|   |_<br>
+
+
+
+
+    z  z<br>   |               |              |
+		z        z<br>  |              |
+	        |        z	z<br>          |
+	||===================||  z	    z<br>
+	||		     ||   z<br>.       |
+	||		     ||      z<br>     |
+	||		     ||	 z       z<br> |
+	||	             ||	   z<br>.      |	||========E3=========||z<br>           |
+	_|   |_<br>                    |
+
+
 
 Instead of giving my body rest from my day and the overuse of the internet and social media, I scroll. And I cannot tell you why, nothing is brought from that endeavour.<br>
 
@@ -58,4 +63,4 @@ In 2017, an article in Rolling Stone stated that Kaczynski was an early adopter 
 
 
 
-[^1]: https://www.sfgate.com/news/article/Kaczynski-said-to-pick-his-victims-haphazardly-3091147.phphttps://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwioiP-soLT0AhWBnVwKHRl6DTsQFnoECAMQAQ&url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-srv%2Fnational%2Flongterm%2Funabomber%2Fmanifesto.text.htm&usg=AOvVaw25azNYAENbn6PTZZbRRvQvhttps://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwioiP-soLT0AhWBnVwKHRl6DTsQFnoECAkQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUnabomber_Manifesto&usg=AOvVaw15Z86POivKhXsr2up70_As
+https://www.sfgate.com/news/article/Kaczynski-said-to-pick-his-victims-haphazardly-3091147.phphttps://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwioiP-soLT0AhWBnVwKHRl6DTsQFnoECAMQAQ&url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-srv%2Fnational%2Flongterm%2Funabomber%2Fmanifesto.text.htm&usg=AOvVaw25azNYAENbn6PTZZbRRvQvhttps://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwioiP-soLT0AhWBnVwKHRl6DTsQFnoECAkQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUnabomber_Manifesto&usg=AOvVaw15Z86POivKhXsr2up70_As
