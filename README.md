@@ -14,20 +14,20 @@ I go to bed at 1:30 every night being on my phone or my computer<br>
 		Derailing my sleep pattern and quality<br>
 Stuck on the never-ending scrawling.<br>
 Mindless and numbing.<br>
-				  z   z
-		z            z
-		                z	z
-||===================||  z	    z
-||		     ||
-||		     ||      z
-||		     ||	 z        z
-||	             ||	   z
-||========E3=========||
-        _|   |_
+				  z   z<br>
+		z            z<br>
+		                z	z<br>
+||===================||  z	    z<br>
+||		     ||<br>
+||		     ||      z<br>
+||		     ||	 z        z<br>
+||	             ||	   z<br>
+||========E3=========||<br>
+        _|   |_<br>
 
 Instead of giving my body rest from my day and the overuse of the internet and social media, I scroll. And I cannot tell you why, nothing is brought from that endeavour.<br>
-**Because of it I am creating a Thoughts of the field of computing? A manifesto? A proposal?**
-Maybe just a simple list on everything negative that happens from this electronic consummation.
+**Because of it I am creating a Thoughts of the field of computing? A manifesto? A proposal?**<br>
+Maybe just a simple list on everything negative that happens from this electronic consummation.<br>
 - I am not invested in moving my body
 - I do not paint or draw
 - I feel useless and mad at myself for having let myself fall so low
