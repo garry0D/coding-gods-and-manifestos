@@ -7,13 +7,13 @@ All of this could be wonderful this is a tool to help us go about our lives.<br>
 But we are dependent on it, we cannot go a day without technology.<br>
 What about our phones? Not many people can say they don’t go on their phones even less people saying they can go a day without checking Instagram. <br>
 The few that can are lucky.<br>
-I,
-Unfortunately, 
-Am not one of these people.
-I go to bed at 1:30 every night being on my phone or my computer
-		Derailing my sleep pattern and quality
-Stuck on the never-ending scrawling.
-Mindless and numbing.
+I,<br>
+Unfortunately, <br>
+Am not one of these people.<br>
+I go to bed at 1:30 every night being on my phone or my computer<br>
+		Derailing my sleep pattern and quality<br>
+Stuck on the never-ending scrawling.<br>
+Mindless and numbing.<br>
 				  z   z
 		z            z
 		                z	z
@@ -25,7 +25,7 @@ Mindless and numbing.
 ||========E3=========||
         _|   |_
 
-Instead of giving my body rest from my day and the overuse of the internet and social media, I scroll. And I cannot tell you why, nothing is brought from that endeavour.
+Instead of giving my body rest from my day and the overuse of the internet and social media, I scroll. And I cannot tell you why, nothing is brought from that endeavour.<br>
 **Because of it I am creating a Thoughts of the field of computing? A manifesto? A proposal?**
 Maybe just a simple list on everything negative that happens from this electronic consummation.
 - I am not invested in moving my body
