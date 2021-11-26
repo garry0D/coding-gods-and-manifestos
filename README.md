@@ -1,4 +1,4 @@
-# coding-gods-and-manifestos
+# Creative computing
    **this is to be read in RAW only >:/**
    
   <h6> A computer, the internet, phones, social media ;</h6> 
@@ -15,19 +15,17 @@ Derailing my sleep pattern and it's quality<br>
 Stuck never-endingly scrawling.<br>
 Mindless and numbing.<br>
 
-
-
-
-    z  z<br>   |               |              |
-		z        z<br>  |              |
-	        |        z	z<br>          |
-	||===================||  z	    z<br>
-	||		     ||   z<br>.       |
-	||		     ||      z<br>     |
-	||		     ||	 z       z<br> |
-	||	             ||	   z<br>.      |	||========E3=========||z<br>           |
-	_|   |_<br>                    |
-
+               z     z    
+		z       
+	                z 
+	                     z	  z          
+||===================||  z	    z
+||		     ||   z    
+||		     ||      z
+||		     ||	 z       z
+||	             ||	   z 	
+||========E3=========||   z         
+	_|   |_                      
 
 
 Instead of giving my body rest from my day and the overuse of the internet and social media, I scroll. And I cannot tell you why, nothing is brought from that endeavour.<br>
