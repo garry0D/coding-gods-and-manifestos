@@ -51,4 +51,4 @@ And yet it is so difficult to do especially being an artist, to share my work to
 
 In 2017, an article in Rolling Stone stated that Kaczynski was an early adopter of the idea that:  "We give up a piece of ourselves whenever we adjust to conform to society's standards. That, and we're too plugged in. We're letting technology take over our lives, willingly." <br>
 
-The full manifestos fro the radicals :) -> https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm
+The full manifestos for the radicals :) -> https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm
