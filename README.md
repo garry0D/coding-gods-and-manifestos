@@ -13,9 +13,12 @@ I go to bed at 1:30 every night being on my phone or my computer<br>
 Derailing my sleep pattern and it's quality<br>
 Stuck never-endingly scrawling.<br>
 Mindless and numbing.<br>
-
-<img width="293" alt="Screenshot 2021-11-26 at 10 35 05" src="https://user-images.githubusercontent.com/94904963/143569091-3c21f6ea-6fb3-4e9d-bd62-3ceb4c7a07f7.png">
-
+_______________
+<details>
+  <summary>Click to expand!</summary>
+  <img width="293" alt="Screenshot 2021-11-26 at 10 35 05" src="https://user-images.githubusercontent.com/94904963/143569091-3c21f6ea-6fb3-4e9d-bd62-3ceb4c7a07f7.png">
+</details>
+_______________ <br>
 Instead of giving my body rest from my day and the overuse of the internet and social media, I scroll. And I cannot tell you why, nothing is brought from that endeavour.<br>
 
 **Because of it I am creating this document, thoughts of the field of computing? A manifesto? A proposal?**<br>
