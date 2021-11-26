@@ -50,3 +50,5 @@ Unlike him, I still beleive that there is good in the technologies we have creat
 And yet it is so difficult to do especially being an artist, to share my work to the world and gaining a following and connections and inspiration. All of this requires being on social media (my phone). When I simply dont want to for my own mental health.
 
 In 2017, an article in Rolling Stone stated that Kaczynski was an early adopter of the idea that:  "We give up a piece of ourselves whenever we adjust to conform to society's standards. That, and we're too plugged in. We're letting technology take over our lives, willingly."
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiT4u6hrrb0AhXngf0HHRTYDPAQFnoECAQQAQ&url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-srv%2Fnational%2Flongterm%2Funabomber%2Fmanifesto.text.htm&usg=AOvVaw25azNYAENbn6PTZZbRRvQv 
